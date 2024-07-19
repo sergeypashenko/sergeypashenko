@@ -11,4 +11,9 @@ Latest YouTube videos
 ![Charles_Proxy](https://img.shields.io/badge/-Charles_Proxy-090909?style=for-the-badge&logo=charlesproxy)
 ![Android_Studio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=androidstudio)
 
-Follow me
+### Follow me
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@SergeyPashenko)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sergeypashenko)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sergey_pashenko)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/sergeypashenko1994?igsh=MWtsbmZxN2wzYmxodg==)
+
