@@ -19,3 +19,4 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sergey_pashenko)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/sergeypashenko1994?igsh=MWtsbmZxN2wzYmxodg==)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeypashenko&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
