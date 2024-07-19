@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=SergeyPashenko"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3gIp3VlJP-aP0W5rTQuMh5I5M4S-_E0Z"
