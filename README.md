@@ -1,6 +1,6 @@
 [![Header](https://github.com/sergeypashenko/sergeypashenko/blob/main/assets/photo_5249240692402806455_y.jpg)](https://www.youtube.com/@SergeyPashenko)
 
-About me
+##I'm a musician and begginer Software tester
 
 Latest YouTube videos
 
