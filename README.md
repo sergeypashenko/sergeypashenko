@@ -2,8 +2,13 @@
 
 ## I'm a musician and begginer Software tester
 
-### My music
+### My YouTube videos
 <!-- YOUTUBE:START -->
+- [lofi на электрогитаре 🎸😌 #гитара #музыка #lofi](https://www.youtube.com/watch?v=zLluwabLClY)
+- [Chill music Lofi](https://www.youtube.com/watch?v=MM4qc-0QVe4)
+- [13 февраля 2023 г.](https://www.youtube.com/watch?v=YFIyBS2Bb6w)
+- [Lofi](https://www.youtube.com/watch?v=YPtNVJY4ud4)
+- [Релакс музыка на электрогитаре #музыка](https://www.youtube.com/watch?v=ggThxFQFlkw)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
