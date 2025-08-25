@@ -7,8 +7,8 @@
 - [lofi на электрогитаре 🎸😌 #гитара #музыка #lofi](https://www.youtube.com/shorts/zLluwabLClY)
 - [Chill music Lofi](https://www.youtube.com/shorts/MM4qc-0QVe4)
 - [13 февраля 2023 г.](https://www.youtube.com/shorts/YFIyBS2Bb6w)
-- [Lofi](https://www.youtube.com/watch?v=YPtNVJY4ud4)
 - [Релакс музыка на электрогитаре #музыка](https://www.youtube.com/shorts/ggThxFQFlkw)
+- [Lo-fi music](https://www.youtube.com/watch?v=GKUxHJq6JN4)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
