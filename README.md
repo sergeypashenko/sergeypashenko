@@ -4,11 +4,11 @@
 
 ### My YouTube videos
 <!-- YOUTUBE:START -->
+- [Дачный Звук: Акустика и Электрогитара Создают Магию](https://www.youtube.com/watch?v=1HGyx_RSlKg)
+- [Relaxing Guitar Duet | Расслабляющая Гитарная Композиция на Даче](https://www.youtube.com/watch?v=RmR5-PUCPvw)
+- [Просто](https://www.youtube.com/watch?v=DfM1EMy8Wa8)
 - [lofi на электрогитаре 🎸😌 #гитара #музыка #lofi](https://www.youtube.com/shorts/zLluwabLClY)
 - [Chill music Lofi](https://www.youtube.com/shorts/MM4qc-0QVe4)
-- [13 февраля 2023 г.](https://www.youtube.com/shorts/YFIyBS2Bb6w)
-- [Lofi](https://www.youtube.com/watch?v=YPtNVJY4ud4)
-- [Релакс музыка на электрогитаре #музыка](https://www.youtube.com/shorts/ggThxFQFlkw)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
